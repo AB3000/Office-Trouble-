@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{6F962E45-5E1A-778D-2A91-5C5AC03B8289}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AnimationPlayerOnTrigger.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="38" Column="1" />
+      <File FileName="Assets/Scripts/PlayerExtrasController.cs" Line="14" Column="17" />
+      <File FileName="Assets/Scripts/MovingObject.cs" Line="14" Column="28" />
+      <File FileName="Assets/Scripts/ActivateTextAtLine.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AnimationPlayerOnTrigger.cs" Line="21" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
